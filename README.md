@@ -1,16 +1,32 @@
-## Hi there 👋
+# TypingWars - 🚀 宇宙で繰り広げられるタイピング戦争！
 
-<!--
-**typingwars/typingwars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![TypingWars Site](https://img.shields.io/badge/play-typingwars.org-brightgreen)](https://typingwars.org)
 
-Here are some ideas to get you started:
+コーディングの合間に、タイピングスキルを磨きませんか？ **TypingWars** は、ブラウザで気軽に楽しめる、日本語入力に特化したタイピングゲームです。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[typingwars.org](https://typingwars.org) で、今すぐあなたのキーボードさばきを世界に示しましょう！
+
+---
+
+## ✨ TypingWarsとは？
+
+**TypingWars** ([typingwars.org](https://typingwars.org)) は、シンプルながらも奥深い、リアルタイム対戦型のタイピングゲームサイトです。あなたのタイピング速度と正確性が、勝敗を分ける唯一の武器となります。友人や世界中のプレイヤーと競い合い、ランキングの頂点を目指しましょう！
+
+## 🎯 主な特徴
+
+*   **💻 ブラウザだけでプレイ可能**: 面倒なインストールは一切不要。サイトにアクセスするだけですぐにゲームを開始できます。
+*   **⌨️ 日本語入力に最適化**: ローマ字入力、かな入力の両方に対応。実践的な日本語の文章で、楽しくタイピングスキルを向上させることができます。
+*   **⚔️ リアルタイム対戦**: 世界中のプレイヤーとリアルタイムで対戦！緊張感あふれるタイピングバトルが楽しめます。
+*   **📈 ランキング機能**: スコアを競い合い、タイピング王の称号を手に入れよう！
+
+## 遊び方
+
+1.  **[typingwars.org](https://typingwars.org) にアクセス** 🚀
+2.  **ニックネームを入力**
+3.  **「ゲーム開始」ボタンをクリック！**
+
+操作はこれだけ！あとは画面に表示される単語や文章を、ひたすら速く、正確にタイプしてください。
+
+---
+
+さあ、あなたの挑戦を待っています。今すぐ **[typingwars.org](https://typingwars.org)** で、タイピングの世界に飛び込みましょう！
